@@ -14,4 +14,7 @@ Some Uses:
 - Can validate data (permissions)
 - Can transform data
 
+Resources:
+https://realpython.com/primer-on-python-decorators/
+https://www.geeksforgeeks.org/decorators-in-python/
 
